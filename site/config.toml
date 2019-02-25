@@ -170,10 +170,10 @@ description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 
 [params.footer]
 enable = true
-contactInfoTitle = "CONTACT <span>INFO</span> "
+contactInfoTitle = "Come eat with us at <span>HOPS&GRAINS</span>"
 blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+socialTitle = "Plese follow <span>US</span> social media"
 
 [[params.footer.contactItem]]
 title="Address"
@@ -187,16 +187,12 @@ content = "shawn@foodmongeratx.com"
 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/foodmongeratx"
+link = "https://fb.com/thefoodmongeratx"
 
 [[params.footer.socialLink]]
 icon = "instagram"
 link = "https://instagram.com/foodmongeratx"
 
-[[params.footer.hours]]
-day="Thursday - Friday: 5PM – 9PM"
-day2="Saturday: 2PM – 8PM"
-day3="Sunday: 2PM – 7PM"
 
 #Footer Copyright
 
@@ -204,6 +200,9 @@ day3="Sunday: 2PM – 7PM"
 [params.footerCopyright]
 enable = true
 Text = "Copyright 2019 - All Rights Reserved. Population2.com"
+day="Thursday - Friday: 5PM – 9PM"
+day2="Saturday: 2PM – 8PM"
+day3="Sunday: 2PM – 7PM"
 
 #blog 
 [params.blog]
