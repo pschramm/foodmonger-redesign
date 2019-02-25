@@ -183,7 +183,7 @@ content = "Hops and Grains Brewery - 507 Calles Street Suite 101 Austin, Tx 7872
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "shawn@foodmongeratx.com - rest@mail.ru"
+content = "shawn@foodmongeratx.com"
 
 [[params.footer.socialLink]]
 icon = "facebook"
