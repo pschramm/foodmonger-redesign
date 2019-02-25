@@ -10,7 +10,7 @@ summaryLength = "7"
 	
 	[[menu.nav]]
     name = "Home"
-    URL = "hero-area"
+    URL = "/"
     weight = 1
 
     [[menu.nav]]
