@@ -78,7 +78,7 @@ a:active {
 }
 .heading span{
   font-size: 45px;
-  color: #ff530a;
+  color: #b3273c;
   font-weight: 600;
 }
 .heading:before {
@@ -426,7 +426,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   float: right;
   padding: 28px 102.5px;
   border-radius: 0px;
-  background: #ff530a;
+  background: #b3273c;
   color: #fff;
   border: 1px solid transparent ;
   text-transform: uppercase;
@@ -438,8 +438,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 #blog .block .btn-more-info:hover {
   background: transparent;
-  color: #ff530a;
-  border: 1px solid #ff530a;
+  color: #b3273c;
+  border: 1px solid #b3273c;
 }
 
 .blog-single-page {
@@ -527,7 +527,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   transition: .3s all;
 }
 #price .block .pricing-list .btn:hover {
-  background: #ff530a;
+  background: #b3273c;
   color: #fff;
 }
 /*--
