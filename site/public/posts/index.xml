@@ -40,20 +40,11 @@
     
     <item>
       <title>BBQ Pulled Pork Sandwich</title>
-      <link>/posts/restaurant/</link>
+      <link>/posts/bbq-pulled-pork-sandwich/</link>
       <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
-      <guid>/posts/restaurant/</guid>
+      <guid>/posts/bbq-pulled-pork-sandwich/</guid>
       <description>Pulled Pork and Slaw Sandwich</description>
-    </item>
-    
-    <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>

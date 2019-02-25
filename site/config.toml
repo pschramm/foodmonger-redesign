@@ -89,7 +89,7 @@ description2= "With a vision of fresh food and a freestyle menu, The Food Monger
 enable = true
 title = "Food Monger Truck <span>MENU</span>"
 description= "Come see us at Hops and Grains Brewery every Thursday thru Sunday"
-subtitle = "MENU FEATURED AT HOPS AND GRAINS"
+subtitle = "All Food is Cooked Fresh to Order!"
 
 [[params.foodMenu.item]]
 title="Satchamo Queso"
@@ -152,6 +152,12 @@ price = "$ 10.00"
 title="Lavender Butter Cheese Burger"
 description= "7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions"
 price = "$ 10.00"
+
+[[params.foodMenu.disclaimer]]
+title="All Food is Cooked Fresh to Order!"
+description= "FM = Made Fresh from Scratch in Our Truck"
+description2= "Add Cheese, Egg, Avocado $1 or (2)Bacon $1.5 to Any Item"
+description3="*All Burgers Are Cooked Medium"
 
 
 #subscription
@@ -218,7 +224,7 @@ Text = "Copyright 2019 - All Rights Reserved. Population2.com"
 #blog 
 [params.blog]
 enable = true
-title = "Freshest <span>From</span> the <span>Menu</span>"
+title = "Fresh <span>From</span> the <span>Kitchen</span>"
 
 
 
