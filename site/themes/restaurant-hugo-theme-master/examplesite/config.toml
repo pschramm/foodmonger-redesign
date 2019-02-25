@@ -1,7 +1,7 @@
-baseURL = "/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
-theme="restaurant-hugo-theme-master"
+theme="restaurant"
 summaryLength = "7"
 
 
@@ -48,8 +48,7 @@ logo = "images/logo.png"
 
 [params.heroArea]
 enable = true
-[params.heroImg ] 
-url =  "images/header.jpg" 
+[params.heroImg ] url =  "images/header.jpg" 
 
 
 #gallery item
