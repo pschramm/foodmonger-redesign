@@ -1,11 +1,3 @@
-{{"<!-- logo -->" | safeHTML}}
-<a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
-  <img src="{{ .Site.Params.logo | absURL }}" alt="Logo">
-</a>
-{{"<!-- logo -->" | safeHTML}}
-
-
-
 {{ "<!-- Navigation Start  -->" | safeHTML }}
 
 	<nav id="navigation">
@@ -23,6 +15,12 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                               </button>
+                              {{"<!-- logo -->" | safeHTML}}
+                                  <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
+                                    <img src="{{ .Site.Params.logo | absURL }}" alt="Logo">
+                                  </a>
+                              {{"<!-- logo -->" | safeHTML}}
+
                             </div>
 
                             {{ if .IsHome }}        
