@@ -1,9 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Restaurant Theme By Themefisher"
+title = "FoodMongerATX: Austin Texas Hops and Grains"
 theme="restaurant-hugo-theme-master"
 summaryLength = "7"
-
 
 
 # Menu
@@ -25,8 +24,8 @@ summaryLength = "7"
     weight = 3
 
     [[menu.nav]]
-    name = "Price"
-    URL = "price"
+    name = "Menu"
+    URL = "menu"
     weight = 4
 
     [[menu.nav]]
@@ -82,7 +81,7 @@ img = "images/slider/slider-img-3.jpg"
 
 [params.about]
 enable = true
-title= "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
+title= "Check out <span>FoodMonger ATX</span> at Hops and Grains Brewery"
 bgImage = "images/cooker-img.png"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
 
@@ -93,9 +92,9 @@ description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 [params.foodMenu]
 enable = true
-title = "Our Easy <span>PRICE</span>"
+title = "Food Monger <span>MENU</span>"
 description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-subtitle = "FEATURED ON THE WEEK"
+subtitle = "FEATURED ON THE TRUCK MENU"
 
 [[params.foodMenu.item]]
 title="Pancakes n' Such Titas"
@@ -161,29 +160,20 @@ content = "016742 323313"
 [[params.footer.contactItem]]
 title="Address"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "1301 Calles St. Hops and Grains"
 
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "shawn@foodmongeratx.com - rest@mail.ru"
 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
-
-
-[[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://fb.com/foodmongeratx"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://instagram.com/foodmongeratx"
 
 
 #Footer Copyright
@@ -191,15 +181,13 @@ link = "https://fb.com/themefisher"
 #Footer Copyright Text
 [params.footerCopyright]
 enable = true
-Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
-
-
+Text = "Copyright 2019 - All Rights Reserved. Population2.com"
 
 
 #blog 
 [params.blog]
 enable = true
-title = "Latest <span>From</span> the <span>Blog</span>"
+title = "Freshest <span>From</span> the <span>Menu</span>"
 
 
 
