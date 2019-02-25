@@ -173,7 +173,7 @@ enable = true
 contactInfoTitle = "Come eat with us at <span>HOPS&GRAINS</span>"
 blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Plese follow <span>US</span> social media"
+socialTitle = "Plese follow <span>US</span> on social media"
 
 [[params.footer.contactItem]]
 title="Address"
