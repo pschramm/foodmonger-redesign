@@ -19,6 +19,23 @@
                     </div>
                 </div>
                 <!-- .col-md-4 close -->
+
+                <div class="col-md-4">
+                        <div class="block wow fadeInLeft"  data-wow-delay="200ms">
+                            <h3>{{ with .Site.Params.footer.hours }} {{ . | safeHTML }} {{ end }}</h3>
+                            <div class="info">
+                                <ul>
+                                    <li>
+                                      <p>{{ .day }}</p>
+                                      <p>{{ .day2 }}</p>
+                                      <p>{{ .day3 }}</p>
+                                        
+                                    </li>
+                                    {{end}}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 <!-- .col-md-4 close -->
                 <div class="col-md-4">
                     <div class="block wow fadeInLeft"  data-wow-delay="1100ms">

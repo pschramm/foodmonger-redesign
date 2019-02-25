@@ -87,7 +87,7 @@ description2= "With a vision of fresh food and a freestyle menu, The Food Monger
 
 [params.foodMenu]
 enable = true
-title = "Food Monger Truck <span>MENU</span>"
+title = "Check out our Food Truck <span>MENU</span>"
 description= "Come see us at Hops and Grains Brewery every Thursday thru Sunday"
 subtitle = "All Food is Cooked Fresh to Order!"
 
@@ -175,8 +175,8 @@ formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 
 [params.contact]
 enable = true
-title= "our <span> Contact Us </span>"
-subtitle= "SIGN UP FOR EMAIL ALERTS"
+title= " <span> Contact Us </span> for catering and general information"
+subtitle= "Lets talk about Catering"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
 
@@ -197,7 +197,7 @@ content = "016742 323313"
 [[params.footer.contactItem]]
 title="Address"
 icon = "fa fa-map-marker"
-content = "1301 Calles St. Hops and Grains"
+content = "Hops and Grains Brewery - 507 Calles Street Suite 101 Austin, Tx 78723"
 
 [[params.footer.contactItem]]
 title="E mail"
@@ -212,6 +212,10 @@ link = "https://fb.com/foodmongeratx"
 icon = "instagram"
 link = "https://instagram.com/foodmongeratx"
 
+[[params.footer.hours]]
+day="Thursday - Friday: 5PM – 9PM"
+day2="Saturday: 2PM – 8PM"
+day3="Sunday: 2PM – 7PM"
 
 #Footer Copyright
 
