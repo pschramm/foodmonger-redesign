@@ -14,29 +14,24 @@ summaryLength = "7"
     weight = 1
 
     [[menu.nav]]
-    name = "About Us"
-    URL = "about-us"
+    name = "Truck Menu"
+    URL = "truck"
     weight = 2
 
     [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
+    name = "Catering Menu"
+    URL = "catering"
     weight = 3
 
     [[menu.nav]]
-    name = "Menu"
+    name = "Features"
     URL = "menu"
     weight = 4
 
     [[menu.nav]]
-    name = "News"
-    URL = "subscribe"
-    weight = 5
-
-    [[menu.nav]]
     name = "Contact Us"
     URL = "contact-us"
-    weight = 6
+    weight = 5
 
 
 
