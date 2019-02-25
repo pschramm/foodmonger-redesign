@@ -50,7 +50,7 @@ url =  "images/fm-header.jpg"
 
 [params.gallery]
 enable = true
-title= "Featured <span>Menu</span>"
+title= "Featured items at <span>Hops and Grains</span>"
 
 [[params.gallery.item]]
 img = "images/slider/slider-img-1.jpg"
@@ -63,16 +63,6 @@ img = "images/slider/slider-img-3.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/slider-img-4.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/slider-img-1.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/slider-img-2.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/slider-img-3.jpg"
-
 
 [params.about]
 enable = true
@@ -167,10 +157,6 @@ enable = true
 title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
-#Mailchimp subscription configaration 
-formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
-
 #Contact 
 
 [params.contact]
@@ -188,11 +174,6 @@ contactInfoTitle = "CONTACT <span>INFO</span> "
 blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
 socialTitle = "Follow <span>US</span>"
-
-[[params.footer.contactItem]]
-title="Telephone"
-icon = "fa fa-phone"
-content = "016742 323313"
 
 [[params.footer.contactItem]]
 title="Address"
@@ -224,17 +205,7 @@ day3="Sunday: 2PM – 7PM"
 enable = true
 Text = "Copyright 2019 - All Rights Reserved. Population2.com"
 
-
 #blog 
 [params.blog]
 enable = true
 title = "Fresh <span>From</span> the <span>Kitchen</span>"
-
-
-
-
-
-
-
-
-
