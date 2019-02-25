@@ -48,7 +48,7 @@ logo = "images/logo.png"
 [params.heroArea]
 enable = true
 [params.heroImg ] 
-url =  "images/header.jpg" 
+url =  "images/fm-header.jpg" 
 
 
 #gallery item
