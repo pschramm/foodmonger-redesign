@@ -42,7 +42,7 @@ summaryLength = "7"
 
 # Global Settings
 [params]
-logo = "images/logo.png"
+#logo = "images/logo.png"
 
 
 [params.heroArea]
