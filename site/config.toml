@@ -87,35 +87,71 @@ description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 [params.foodMenu]
 enable = true
-title = "Food Monger <span>MENU</span>"
+title = "Food Monger Truck <span>MENU</span>"
 description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-subtitle = "FEATURED ON THE TRUCK MENU"
+subtitle = "FEATURED AT HOPS AND GRAINS"
 
 [[params.foodMenu.item]]
-title="Pancakes n' Such Titas"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 125.00"
+title="Satchamo Queso"
+description= "Creamy White Melted Cheese, Fresh Spinach, FM Pico, Roasted Green Chiles & FM Red Tortilla Chips"
+price = "$ 6.50"
 
 [[params.foodMenu.item]]
-title="Caesar Salad"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 100.00"
+title="Satchamo Queso & Bacon Papas"
+description= "Our Delicious Queso with added Bacon papas"
+price = "$ 8.00"
 
 [[params.foodMenu.item]]
-title="Steak with a Garlic and Parsley Risotto"
+title="Bacon & Cheeeeeese Quesadilla with FM Pico & FM Avocado Ranch"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 20.00"
+price = "$ 8.50"
 
 [[params.foodMenu.item]]
-title="Meat of Skewers"
+title="HandCut Papas with FM Ketchup"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 45.00"
+price = "$ 4.00"
 
 [[params.foodMenu.item]]
-title="Pancakes n' Such"
+title="Parmesan Papas with FM Ketchup"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 25.00"
+price = "$ 4.75"
 
+
+[[params.foodMenu.item]]
+title="Fried Egg Sandwich"
+description= "Fried Eggs, Spring Mix, FM Mustard & Tomato on a Toasted Brioche Bun"
+price = "$ 8.50"
+
+[[params.foodMenu.item]]
+title="Bean & Quinoa Wrap"
+description= "Black & Pinto Beans, Quinoa, Avocado Lime Sauce, Spring Mix, FM Pico"
+price = "$ 9.75"
+
+
+[[params.foodMenu.item]]
+title="“Our Famous” Cluckers"
+description= "Hand Cut & Breaded in Our Special FM Spice Mix (Chicken Tenders) with Avocado Ranch"
+price = "$ 9.75"
+
+[[params.foodMenu.item]]
+title="The Healthy Buffalo Wrap"
+description= "Cluckers Tossed in FM Buffalo Sauce, Spring Mix, FM Pico & FM Avocado Ranch"
+price = "$ 10.00"
+
+[[params.foodMenu.item]]
+title="The Turkey Bacon Wrap"
+description= "Roasted Turkey, 2 Slices of Wrights Thick Cut Bacon, Spring Mix, FM Pico & FM Avocado Ranch All Rolled Up in a 13’ Tortilla"
+price = "$ 11.00"
+
+[[params.foodMenu.item]]
+title="The Nessa Burger"
+description= "Ground Beef Burger with FM Pickles, Tomato, Spring Mix & FM Mustard on a Toasted Brioche Bun"
+price = "$ 10.00"
+
+[[params.foodMenu.item]]
+title="Lavender Butter Cheese Burger"
+description= "7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions"
+price = "$ 10.00"
 
 
 #subscription
