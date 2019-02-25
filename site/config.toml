@@ -10,12 +10,12 @@ summaryLength = "7"
 	
 	[[menu.nav]]
     name = "Home"
-    URL = "/"
+    URL = ""
     weight = 1
 
     [[menu.nav]]
     name = "Truck Menu"
-    URL = "truck"
+    URL = "menu"
     weight = 2
 
     [[menu.nav]]
@@ -25,7 +25,7 @@ summaryLength = "7"
 
     [[menu.nav]]
     name = "Features"
-    URL = "menu"
+    URL = "features"
     weight = 4
 
     [[menu.nav]]
