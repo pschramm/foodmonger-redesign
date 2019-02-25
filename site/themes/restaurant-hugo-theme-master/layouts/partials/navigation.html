@@ -17,7 +17,12 @@
                               </button>
                               {{"<!-- logo -->" | safeHTML}}
                                   <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
-                                    <img src="{{ .Site.Params.logo | absURL }}" alt="Logo">
+
+                                      {{ .Site.Params.title }}
+<!--                                     
+                                    <img src="{{ .Site.Params.logo | absURL }}" alt="Logo"> -->
+
+
                                   </a>
                               {{"<!-- logo -->" | safeHTML}}
 
