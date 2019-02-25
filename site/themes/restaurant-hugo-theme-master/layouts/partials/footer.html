@@ -19,22 +19,6 @@
                     </div>
                 </div>
                 <!-- .col-md-4 close -->
-                <div class="col-md-4">
-                    <div class="block wow fadeInLeft"  data-wow-delay="700ms">
-                        <h3>{{ with .Site.Params.footer.blogTitle }} {{ . | safeHTML }} {{ end }}</h3>
-                         <div class="blog">
-                            <ul>
-                                {{ range first 3 (where .Data.Pages "Type" "post") }}
-                                    {{ "<!-- post -->" | safeHTML }}
-                                    <li>
-                                        <h4><a href="#">{{ .PublishDate.Format "02 Jan 2006" }}</a></h4>
-                                        <p>{{ .Title }}</p>
-                                    </li>
-                                {{ end }}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
                 <!-- .col-md-4 close -->
                 <div class="col-md-4">
                     <div class="block wow fadeInLeft"  data-wow-delay="1100ms">
