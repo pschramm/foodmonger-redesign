@@ -9,7 +9,7 @@ summaryLength = "7"
 
     [[menu.nav]]
     name = "Home"
-    URL = "/"
+    URL = ""
     weight = 1
 	
     [[menu.nav]]
@@ -24,7 +24,7 @@ summaryLength = "7"
 
     [[menu.nav]]
     name = "Contact Us"
-    URL = "contact-us"
+    URL = "contact"
     weight = 4
 
 # Global Settings
