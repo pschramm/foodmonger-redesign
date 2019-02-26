@@ -1,6 +1,7 @@
+{{ "<!-- Navigation Start  -->" | safeHTML }}
 
-	{{ "<!-- Navigation Start  -->" | safeHTML }}
-
+	<nav id="navigation">
+        <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="block">
@@ -23,11 +24,11 @@
                             </div>
 
                             {{ if .IsHome }}        
-                            <div>
-                              <ul class="nav navbar-nav navbar-right" id="topnav">
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                              <ul class="nav navbar-nav navbar-right" id="top-nav">
                                 <li><a href="#hero-area">{{ with $.Site.Params.home }}{{ . }}{{ end }}</a></li>
                                 {{ range $.Site.Menus.nav }}
-                                  <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                  <li><a href="#{{ .URL }}">{{ .Name }}</a></li>
                                 {{ end }}
                               </ul>
                             </div><!-- /.navbar-collapse -->
@@ -36,7 +37,7 @@
                                 <ul class="nav navbar-nav navbar-right" id="top-nav">
                                   <li><a data-scroll href="{{ $.Site.BaseURL }}#body">{{ with $.Site.Params.home }}{{ . }}{{ end }}</a></li>
                                   {{ range $.Site.Menus.nav }}
-                                  <li><a data-scroll href="/{{ .URL }}">{{ .Name }}</a></li>
+                                  <li><a data-scroll href="{{ $.Site.BaseURL }}#{{ .URL }}">{{ .Name }}</a></li>
                                   {{ end }}
                                 </ul>
                               </div><!-- /.navbar-collapse -->
