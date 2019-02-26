@@ -195,3 +195,79 @@ day3="Sunday: 2PM – 7PM"
 [params.blog]
 enable = true
 title = "Fresh <span>From</span> the <span>Kitchen</span>"
+
+
+#catering Menu
+
+[params.cateringMenu]
+enable = true
+title = "Check out our Catering <span>MENU</span>"
+description= "wedding..asdfasdf asdf.asdf.asdfy"
+subtitle = "All Food is Cooked Fresh to Order!"
+
+[[params.cateringMenu.item]]
+title="Satchamo Queso"
+description= "Creamy White Melted Cheese, Fresh Spinach, FM Pico, Roasted Green Chiles & FM Red Tortilla Chips"
+price = "$ 6.50"
+
+[[params.cateringMenu.item]]
+title="Satchamo Queso & Bacon Papas"
+description= "Our Delicious Queso with added Bacon papas"
+price = "$ 8.00"
+
+[[params.cateringMenu.item]]
+title="Bacon & Cheeeeeese Quesadilla with FM Pico & FM Avocado Ranch"
+description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+price = "$ 8.50"
+
+[[params.cateringMenu.item]]
+title="HandCut Papas with FM Ketchup"
+description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+price = "$ 4.00"
+
+[[params.cateringMenu.item]]
+title="Parmesan Papas with FM Ketchup"
+description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+price = "$ 4.75"
+
+[[params.cateringMenu.item]]
+title="Fried Egg Sandwich"
+description= "Fried Eggs, Spring Mix, FM Mustard & Tomato on a Toasted Brioche Bun"
+price = "$ 8.50"
+
+[[params.cateringMenu.item]]
+title="Bean & Quinoa Wrap"
+description= "Black & Pinto Beans, Quinoa, Avocado Lime Sauce, Spring Mix, FM Pico"
+price = "$ 9.75"
+
+[[params.cateringMenu.item]]
+title="“Our Famous” Cluckers"
+description= "Hand Cut & Breaded in Our Special FM Spice Mix (Chicken Tenders) with Avocado Ranch"
+price = "$ 9.75"
+
+[[params.cateringMenu.item]]
+title="The Healthy Buffalo Wrap"
+description= "Cluckers Tossed in FM Buffalo Sauce, Spring Mix, FM Pico & FM Avocado Ranch"
+price = "$ 10.00"
+
+[[params.cateringMenu.item]]
+title="The Turkey Bacon Wrap"
+description= "Roasted Turkey, 2 Slices of Wrights Thick Cut Bacon, Spring Mix, FM Pico & FM Avocado Ranch All Rolled Up in a 13’ Tortilla"
+price = "$ 11.00"
+
+[[params.cateringMenu.item]]
+title="The Nessa Burger"
+description= "Ground Beef Burger with FM Pickles, Tomato, Spring Mix & FM Mustard on a Toasted Brioche Bun"
+price = "$ 10.00"
+
+[[params.cateringMenu.item]]
+title="Lavender Butter Cheese Burger"
+description= "7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions"
+price = "$ 10.00"
+
+[[params.cateringMenu.disclaimer]]
+title="All Food is Cooked Fresh to Order!"
+description= "FM = Made Fresh from Scratch in Our Truck"
+description2= "Add Cheese, Egg, Avocado $1 or (2)Bacon $1.5 to Any Item"
+description3="*All Burgers Are Cooked Medium"
+
