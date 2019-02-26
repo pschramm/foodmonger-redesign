@@ -14,13 +14,13 @@
                             <ul>
                                 {{ range $.Site.Params.footer.contactItem }}
                                 <li>
-                                  <h4><i class="{{.icon}}"></i>{{ .title }}</h4>
+                                  <h4><i class="{{.icon}}"></i><a href="{{ .link }}" target="">{{ .title }}</a>
+                                </h4>
                                   <p>{{ .content }}</p>
                                     
                                 </li>
                                 {{end}}
-                            </ul>
-                        </div>
+                     
                     
     
 

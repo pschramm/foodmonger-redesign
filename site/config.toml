@@ -166,11 +166,13 @@ socialTitle = "Plese follow <span>US</span> on social media"
 title="Address"
 icon = "fa fa-map-marker"
 content = "Hops and Grains Brewery - 507 Calles Street Suite 101 Austin, Tx 78723"
+link = "https://www.google.com/maps/place/Hops+and+Grain+Brewing/@30.258262,-97.712588,15z/data=!4m5!3m4!1s0x0:0x7eb8bbb1adbddf3d!8m2!3d30.258262!4d-97.712588"
 
 [[params.footer.contactItem]]
 title="Email"
 icon = "fa fa-envelope"
-content = "shawn@foodmongeratx.com"
+content = "shawn.thefoodmonger@gmail.com"
+link = "mailto:shawn.thefoodmonger@gmail.com"
 
 [[params.footer.socialLink]]
 icon = "facebook"
