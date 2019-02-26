@@ -39,7 +39,7 @@ url =  "images/fm-header.jpg"
 #gallery item
 
 [params.gallery]
-enable = true
+enable = false
 title= "Featured items at <span>Hops and Grains</span>"
 
 [[params.gallery.item]]
