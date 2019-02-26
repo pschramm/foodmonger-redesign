@@ -66,9 +66,9 @@ description2= "With a vision of fresh food and a freestyle menu, The Food Monger
 
 [params.foodMenu]
 enable = true
-title = "Check out our Food Truck <span>MENU</span>"
+title = "Food Truck <span>MENU</span> at Hops "
 description= "Come see us at Hops and Grains Brewery every Thursday thru Sunday"
-subtitle = "All Food is Cooked Fresh to Order!"
+subtitle = "All of our Food is Cooked Fresh to Order!"
 
 [[params.foodMenu.item]]
 title="Satchamo Queso"
@@ -201,7 +201,7 @@ title = "Fresh <span>From</span> the <span>Kitchen</span>"
 
 [params.cateringMenu]
 enable = true
-title = "Check out our Catering <span>MENU</span>"
+title = "This is our <span>Catering MENU</span>"
 description= "wedding..asdfasdf asdf.asdf.asdfy"
 subtitle = "All Food is Cooked Fresh to Order!"
 
