@@ -163,7 +163,7 @@ icon = "fa fa-map-marker"
 content = "Hops and Grains Brewery - 507 Calles Street Suite 101 Austin, Tx 78723"
 
 [[params.footer.contactItem]]
-title="E mail"
+title="Email"
 icon = "fa fa-envelope"
 content = "shawn@foodmongeratx.com"
 
