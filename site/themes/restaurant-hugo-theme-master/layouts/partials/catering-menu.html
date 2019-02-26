@@ -8,13 +8,16 @@
                         <h1 class="heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
                             {{ with .Site.Params.cateringMenu.title }} {{ . | safeHTML }} {{ end }}
                         </h1>
-                        <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
-                            {{ with .Site.Params.cateringMenu.description }} {{ . }} {{ end }}
-                        </p>
+                        <h2 class="heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
+                            {{ with .Site.Params.cateringMenu.description }} {{ . | safeHTML }} {{ end }}
+                        </h2>
+
+                        <div class="title">
+                            <h3>{{ with .Site.Params.cateringMenu.subtitle }} {{ . }} {{ end }}</h3>
+                        </div>
+
                         <div class="pricing-list">
-                            <div class="title">
-                                <h3>{{ with .Site.Params.cateringMenu.subtitle }} {{ . }} {{ end }}</h3>
-                            </div>
+                            
                             <ul>
                                 {{ range $.Site.Params.cateringMenu.item }}
                                 <li class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
@@ -25,6 +28,10 @@
                                             <span>{{.price}}</span>
                                         </div>
                                         <p>{{.description}}</p>
+                                        <p>{{.options}} </p>
+
+                                        <p>{{.description2}}</p>
+                                        <p>{{.description3}}</p>
                                     </div>
                                 </li>
                                 {{ end }}

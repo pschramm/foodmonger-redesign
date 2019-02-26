@@ -202,68 +202,8 @@ title = "Fresh <span>From</span> the <span>Kitchen</span>"
 [params.cateringMenu]
 enable = true
 title = "This is our <span>Catering MENU</span>"
-description= "wedding..asdfasdf asdf.asdf.asdfy"
-subtitle = "All Food is Cooked Fresh to Order!"
-
-[[params.cateringMenu.item]]
-title="Satchamo Queso"
-description= "Creamy White Melted Cheese, Fresh Spinach, FM Pico, Roasted Green Chiles & FM Red Tortilla Chips"
-price = "$ 6.50"
-
-[[params.cateringMenu.item]]
-title="Satchamo Queso & Bacon Papas"
-description= "Our Delicious Queso with added Bacon papas"
-price = "$ 8.00"
-
-[[params.cateringMenu.item]]
-title="Bacon & Cheeeeeese Quesadilla with FM Pico & FM Avocado Ranch"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 8.50"
-
-[[params.cateringMenu.item]]
-title="HandCut Papas with FM Ketchup"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 4.00"
-
-[[params.cateringMenu.item]]
-title="Parmesan Papas with FM Ketchup"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 4.75"
-
-[[params.cateringMenu.item]]
-title="Fried Egg Sandwich"
-description= "Fried Eggs, Spring Mix, FM Mustard & Tomato on a Toasted Brioche Bun"
-price = "$ 8.50"
-
-[[params.cateringMenu.item]]
-title="Bean & Quinoa Wrap"
-description= "Black & Pinto Beans, Quinoa, Avocado Lime Sauce, Spring Mix, FM Pico"
-price = "$ 9.75"
-
-[[params.cateringMenu.item]]
-title="“Our Famous” Cluckers"
-description= "Hand Cut & Breaded in Our Special FM Spice Mix (Chicken Tenders) with Avocado Ranch"
-price = "$ 9.75"
-
-[[params.cateringMenu.item]]
-title="The Healthy Buffalo Wrap"
-description= "Cluckers Tossed in FM Buffalo Sauce, Spring Mix, FM Pico & FM Avocado Ranch"
-price = "$ 10.00"
-
-[[params.cateringMenu.item]]
-title="The Turkey Bacon Wrap"
-description= "Roasted Turkey, 2 Slices of Wrights Thick Cut Bacon, Spring Mix, FM Pico & FM Avocado Ranch All Rolled Up in a 13’ Tortilla"
-price = "$ 11.00"
-
-[[params.cateringMenu.item]]
-title="The Nessa Burger"
-description= "Ground Beef Burger with FM Pickles, Tomato, Spring Mix & FM Mustard on a Toasted Brioche Bun"
-price = "$ 10.00"
-
-[[params.cateringMenu.item]]
-title="Lavender Butter Cheese Burger"
-description= "7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions"
-price = "$ 10.00"
+subtitle = "Catering starts as low as $9 per person."
+description = "We can deliver your food and set it up in your home or office, for larger parties we can also bring our food truck to your location. You can pick from one of our many trays, build your own bars, group entrees or protein platters. "
 
 [[params.cateringMenu.disclaimer]]
 title="All Food is Cooked Fresh to Order!"
@@ -271,3 +211,35 @@ description= "FM = Made Fresh from Scratch in Our Truck"
 description2= "Add Cheese, Egg, Avocado $1 or (2)Bacon $1.5 to Any Item"
 description3="*All Burgers Are Cooked Medium"
 
+[[params.cateringMenu.item]]
+title="Breakfast Sandwiches served on a Brioche Bun w/ FM Jalapeno Aioli"
+description=" 2 Fried Egg with your choice of:"
+options="Provolone or Cheddar Cheese & Bacon, FM Sausage, or FM Chorizo"
+price="$9 per person"
+
+[[params.cateringMenu.item]]
+title="Build Your Own Breakfast Tacos Bar"
+description=" Scrambled Eggs and your choice of two of the following:"
+options="Bacon, FM Sausage, FM Chorizo, Potatoes or Re-Fried Beans"
+description2= "Served with Tortillas & Salsa."
+price="$9.5 per person"
+
+[[params.cateringMenu.item]]
+title="Sandwiches served on a Brioche Bun with your choice of Turkey, Ham, Grilled Chicken or Veggie"
+description="All sandwiches are “dressed” with spring mix and tomato. FM Pickles on the side."
+options="Provolone or Cheddar Cheese"
+description2= "Jalapeno Aioli or FM Mustard"
+price= "$10.5 per person"
+
+[[params.cateringMenu.item]]
+title="Build Your Own Taco Bar"
+description=" Choose 1-2 of the following (Beef, Chicken or Pork)"
+options="Served with Sautéed Peppers & Onions "
+description2="Soft Flour Tortillas. "
+description3="Includes Spanish Rice, Pinto or Black Beans FM Pico, Fresh Salsa, Sour Cream and Shredded Cheese"
+price="$13.5 per person"
+
+[[params.cateringMenu.item]]
+title="Build Your Own Salad Bar"
+description=" Spring Mix, Grilled Chicken, Shredded Carrots, Cucumbers, Cherry Tomatoes, Celery, Bacon, Shredded Cheese, Croutons, FM Vinaigrette & FM Avocado Ranch "
+price= "$13.5 per person"
