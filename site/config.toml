@@ -82,17 +82,17 @@ price = "$ 8.00"
 
 [[params.foodMenu.item]]
 title="Bacon & Cheeeeeese Quesadilla with FM Pico & FM Avocado Ranch"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description= ""
 price = "$ 8.50"
 
 [[params.foodMenu.item]]
 title="HandCut Papas with FM Ketchup"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description= ""
 price = "$ 4.00"
 
 [[params.foodMenu.item]]
 title="Parmesan Papas with FM Ketchup"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description= ""
 price = "$ 4.75"
 
 [[params.foodMenu.item]]
@@ -150,7 +150,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 enable = true
 title= " <span> Contact Us </span> for catering and general information"
 subtitle= "Lets talk about Catering"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+description = "FoodMongerATX Catering and Food Truck"
 
 
 #Footer 
