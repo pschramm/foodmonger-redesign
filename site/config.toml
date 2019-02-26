@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://foodmongeratxbeta.netlify.com/"
 languageCode = "en-us"
 title = "FoodMongerATX: Austin Texas Hops and Grains"
 theme="restaurant-hugo-theme-master"
