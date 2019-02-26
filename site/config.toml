@@ -14,7 +14,7 @@ summaryLength = "7"
 
     [[menu.nav]]
     name = "Catering Menu"
-    URL = "catering"
+    URL = "catering.html"
     weight = 3
 
     [[menu.nav]]
