@@ -6,21 +6,26 @@ summaryLength = "7"
 
 # Menu
 [menu]
+
+    [[menu.nav]]
+    name = "Home"
+    URL = "/"
+    weight = 1
 	
     [[menu.nav]]
     name = "Truck Menu"
-    URL = "menu"
+    URL = "truck"
     weight = 2
 
     [[menu.nav]]
     name = "Catering Menu"
-    URL = "catering.html"
+    URL = "catering"
     weight = 3
 
     [[menu.nav]]
     name = "Contact Us"
     URL = "contact-us"
-    weight = 5
+    weight = 4
 
 # Global Settings
 [params]
