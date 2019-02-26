@@ -4,15 +4,9 @@ title = "FoodMongerATX: Austin Texas Hops and Grains"
 theme="restaurant-hugo-theme-master"
 summaryLength = "7"
 
-
 # Menu
 [menu]
 	
-	[[menu.nav]]
-    name = "Home"
-    URL = ""
-    weight = 1
-
     [[menu.nav]]
     name = "Truck Menu"
     URL = "menu"
@@ -24,27 +18,18 @@ summaryLength = "7"
     weight = 3
 
     [[menu.nav]]
-    name = "Features"
-    URL = "features"
-    weight = 4
-
-    [[menu.nav]]
     name = "Contact Us"
     URL = "contact-us"
     weight = 5
-
-
 
 # Global Settings
 [params]
 logo = "images/logo.png"
 
-
 [params.heroArea]
 enable = true
 [params.heroImg ] 
 url =  "images/fm-header.jpg" 
-
 
 #gallery item
 
@@ -70,7 +55,6 @@ title= "Check out <span>FoodMonger ATX</span> at Hops and Grains Brewery"
 bgImage = "images/cooker-img.png"
 description= "Shawn and Vanessa have been friends for over a decade. Their shared passion for food led to hours and days filled with conversation of opening their own culinary adventure."
 description2= "With a vision of fresh food and a freestyle menu, The Food Monger hatched in October of 2017. From handmade sauces to freshly pickled veggies to on-the-truck-cut fries and the freshest meat, their commitment to quality is unchallenged. Every item is prepared by Shawn and Vanessa. The ever-changing menu and the made-from-scratch items keep their minds thinking and your bellies hungry for more. Freestyle means no boundary on cuisines, flavors, or collaborations. Every venture is different, and that barely scratches the surface! The Food Monger has been blessed with a great support system of friends and family. This dream could not have gotten off the ground without our amazing customers."
-
 
 
 #food Menu
@@ -106,7 +90,6 @@ title="Parmesan Papas with FM Ketchup"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 4.75"
 
-
 [[params.foodMenu.item]]
 title="Fried Egg Sandwich"
 description= "Fried Eggs, Spring Mix, FM Mustard & Tomato on a Toasted Brioche Bun"
@@ -116,7 +99,6 @@ price = "$ 8.50"
 title="Bean & Quinoa Wrap"
 description= "Black & Pinto Beans, Quinoa, Avocado Lime Sauce, Spring Mix, FM Pico"
 price = "$ 9.75"
-
 
 [[params.foodMenu.item]]
 title="“Our Famous” Cluckers"
@@ -153,7 +135,7 @@ description3="*All Burgers Are Cooked Medium"
 #subscription
 
 [params.subscription]
-enable = true
+enable = false
 title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
