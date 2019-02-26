@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on FoodMongerATX: Austin Texas Hops and Grains</title>
-    <link>/posts/</link>
+    <link>https://foodmongeratxbeta.netlify.com/posts/</link>
     <description>Recent content in Posts on FoodMongerATX: Austin Texas Hops and Grains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://foodmongeratxbeta.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Our Famous Cluckers!</title>
-      <link>/posts/famous-cluckers/</link>
+      <link>https://foodmongeratxbeta.netlify.com/posts/famous-cluckers/</link>
       <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
       
-      <guid>/posts/famous-cluckers/</guid>
+      <guid>https://foodmongeratxbeta.netlify.com/posts/famous-cluckers/</guid>
       <description>Hand Cut &amp;amp; Breaded in Our Special FM Spice Mix (Chicken Tenders) with Avocado Ranch</description>
     </item>
     
     <item>
       <title>Bean &amp; Quinoa Wrap</title>
-      <link>/posts/bean-quinoa-wrap/</link>
+      <link>https://foodmongeratxbeta.netlify.com/posts/bean-quinoa-wrap/</link>
       <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
-      <guid>/posts/bean-quinoa-wrap/</guid>
+      <guid>https://foodmongeratxbeta.netlify.com/posts/bean-quinoa-wrap/</guid>
       <description>Black &amp;amp; Pinto Beans, Quinoa, Avocado Lime Sauce, Spring Mix, FM Pico</description>
     </item>
     
     <item>
       <title>Lavender Butter Cheese Burger</title>
-      <link>/posts/lavender-butter-burger/</link>
+      <link>https://foodmongeratxbeta.netlify.com/posts/lavender-butter-burger/</link>
       <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
-      <guid>/posts/lavender-butter-burger/</guid>
+      <guid>https://foodmongeratxbeta.netlify.com/posts/lavender-butter-burger/</guid>
       <description>7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, &amp;amp; Caramelized Onions</description>
     </item>
     
     <item>
       <title>BBQ Pulled Pork Sandwich</title>
-      <link>/posts/bbq-pulled-pork-sandwich/</link>
+      <link>https://foodmongeratxbeta.netlify.com/posts/bbq-pulled-pork-sandwich/</link>
       <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
-      <guid>/posts/bbq-pulled-pork-sandwich/</guid>
+      <guid>https://foodmongeratxbeta.netlify.com/posts/bbq-pulled-pork-sandwich/</guid>
       <description>Pulled Pork and Slaw Sandwich</description>
     </item>
     
