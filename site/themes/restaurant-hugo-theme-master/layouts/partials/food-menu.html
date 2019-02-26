@@ -33,18 +33,15 @@
 
 
                                 {{ range $.Site.Params.foodMenu.disclaimer }}
-                           
-                                <div class="item">
-                                   
-                                <ul class="list-inline mb-50 post-meta">
-                                    <li class="list-inline-item">{{.description}}</li>
-                                    <li class="list-inline-item">{{.description2}}</li>
-                                    <li class="list-inline-item"> {{.description3}}</li>
-                                </ul>
+                                <li class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+                                    <div class="item">
+                                        <p>{{.description}}</p>
+                                        <p>{{.description2}}</p>
+                                        <p>{{.description3}}</p>
+                                    </div>
+                                </li>
                                     {{ end }}
 
-
-                                </div>
 
 
 
