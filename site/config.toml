@@ -1,4 +1,4 @@
-baseURL = "https://www.thefoodmongeratx.com"
+baseURL = "https://www.thefoodmongeratx.com/"
 languageCode = "en-us"
 title = "FoodMongerATX: Austin Texas Hops and Grains"
 theme="restaurant-hugo-theme-master"
